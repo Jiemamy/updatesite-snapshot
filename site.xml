@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.jiemamy.eclipse.core.feature_0.3.2.201110061204.jar" id="org.jiemamy.eclipse.core.feature" version="0.3.2.201110061204">
+      <category name="jiemamy_eclipse_model_editor"/>
+   </feature>
+   <feature url="features/org.jiemamy.eclipse.dialect.mysql.feature_0.3.1.201110061204.jar" id="org.jiemamy.eclipse.dialect.mysql.feature" version="0.3.1.201110061204">
+      <category name="jiemamy_eclipse_dialects"/>
+   </feature>
+   <feature url="features/org.jiemamy.eclipse.dialect.postgresql.feature_0.3.1.201110061204.jar" id="org.jiemamy.eclipse.dialect.postgresql.feature" version="0.3.1.201110061204">
+      <category name="jiemamy_eclipse_dialects"/>
+   </feature>
+   <category-def name="jiemamy_eclipse_model_editor" label="Jiemamy Eclipse Model Editor"/>
+   <category-def name="jiemamy_eclipse_dialects" label="Jiemamy Eclipse Dialect Plug-ins"/>
+   <category-def name="jiemamy_eclipse_importers" label="Jiemamy Eclipse Importer Plug-ins"/>
+   <category-def name="jiemamy_eclipse_exporters" label="Jiemamy Eclipse Exporter Plug-ins"/>
+</site>
